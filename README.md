@@ -1,3 +1,3 @@
 # BookStoreManager
 
-This program
+This program was made to manage a book store's database
